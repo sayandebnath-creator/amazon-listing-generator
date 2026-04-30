@@ -6,6 +6,7 @@ A lightweight AI tool that generates high-converting Amazon listings — includi
 
 ## Demo
 
+![Demo](./images/listing.gif)
 
 ---
 
