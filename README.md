@@ -8,6 +8,8 @@ A lightweight AI tool that generates high-converting Amazon listings — includi
 
 ![Demo](./assets/listing.gif)
 
+- Link: https://drive.google.com/file/d/1wVfo4ZdHS6yzMy9UPqkLGYlo5rSxg6Pn/view?usp=sharing
+
 ---
 
 ## Features
